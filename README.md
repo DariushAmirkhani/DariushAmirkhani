@@ -8,7 +8,7 @@
    Developing deep learning models for concrete crack segmentation and defect detection.
 
 📫 **Reach Me:**  
-   [LinkedIn](https://linkedin.com/in/dariushamirkhani) | [Google Scholar](https://scholar.google.com/citations?user=g8hEMicAAAAJ&hl=en&oi=ao)
+   [LinkedIn](https://ca.linkedin.com/in/dariush-amirkhani-3b3a69b4) | [Google Scholar](https://scholar.google.com/citations?user=g8hEMicAAAAJ&hl=en&oi=ao)
 
 ---
 
