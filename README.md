@@ -1,6 +1,6 @@
 # Hi, I'm Dariush Amirkhani! 👋
 
-🎓 **Ph.D. Candidate (May 2021 - January 2025)** in **Computer Science (Artificial Intelligence)**  
+🎓 **Ph.D (May 2021 - January 2025)** in **Computer Science (Artificial Intelligence)**  
    Université du Québec en Outaouais (Fully funded by the National Research Council of Canada)  
    **Research Focus:** Bridge Defect Detection Using Drone Imagery
 
